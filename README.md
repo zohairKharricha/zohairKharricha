@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating friendly and modern user interfaces using react and nextjs<br>📚 I'm currently studying computer science at wsb merito university ...<br></p>
+<p align="left">✨ Creating friendly and modern user interfaces using react and nextjs<br>📚 I'm currently studying computer science at wsb merito university<br></p>
 
 ###
 
